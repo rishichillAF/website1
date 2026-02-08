@@ -43,7 +43,7 @@ The simulation provides an immersive look into a fictionalized digital environme
 To run JeffreyOS on your local machine, follow these steps:
 
 1.  **Clone the repository:**
-    git clone https://github.com/rishibaghel01/website1.git
+    git clone https://github.com/rishichillAF/website1.git
 
 2.  **Navigate to the project directory:**
     ```sh
