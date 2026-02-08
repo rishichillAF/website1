@@ -2,7 +2,7 @@
 
 # JeffreyOS
 
-[ʟ ɪ ᴠ ᴇ  -  ᴘ ʀ ᴇ ᴠ ɪ ᴇ ᴡ](https://JeffreyOS.Pages.Dev)
+[ʟ ɪ ᴠ ᴇ  -  ᴘ ʀ ᴇ ᴠ ɪ ᴇ ᴡ]( https://jeffreyepstein.in/ )
 
 ![System Status](https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge&logo=linux)
 ![Build](https://img.shields.io/badge/BUILD-v1.0.0-blueviolet?style=for-the-badge)
@@ -43,7 +43,7 @@ The simulation provides an immersive look into a fictionalized digital environme
 To run JeffreyOS on your local machine, follow these steps:
 
 1.  **Clone the repository:**
-    git clone https://github.com/rishibaghel01/JeffreyOS.git
+    git clone https://github.com/rishibaghel01/website1.git
 
 2.  **Navigate to the project directory:**
     ```sh
